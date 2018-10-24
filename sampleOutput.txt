@@ -1,0 +1,36 @@
+Current Temperature ..  29.30
+The LinearRegression predicted value is..  [25.43702411]
+Using TensorFlow backend.
+The keras model prediction using tensorflow is ..  [27.109503]
+Current Temperature ..  29.30
+The LinearRegression predicted value is..  [25.43702411]
+Using TensorFlow backend.
+The keras model prediction using tensorflow is ..  [27.109503]
+Current Temperature ..  28.81
+The LinearRegression predicted value is..  [25.41973441]
+Using TensorFlow backend.
+The keras model prediction using tensorflow is ..  [26.860165]
+Current Temperature ..  29.30
+The LinearRegression predicted value is..  [25.43702411]
+Using TensorFlow backend.
+The keras model prediction using tensorflow is ..  [27.109503]
+Current Temperature ..  29.30
+The LinearRegression predicted value is..  [25.43702411]
+Using TensorFlow backend.
+The keras model prediction using tensorflow is ..  [27.109503]
+Current Temperature ..  29.30
+The LinearRegression predicted value is..  [25.43702411]
+Using TensorFlow backend.
+The keras model prediction using tensorflow is ..  [27.109503]
+Current Temperature ..  29.30
+The LinearRegression predicted value is..  [25.43702411]
+Using TensorFlow backend.
+The keras model prediction using tensorflow is ..  [27.109503]
+Current Temperature ..  29.30
+The LinearRegression predicted value is..  [25.43702411]
+Using TensorFlow backend.
+The keras model prediction using tensorflow is ..  [27.109503]
+Current Temperature ..  29.30
+The LinearRegression predicted value is..  [25.43702411]
+Using TensorFlow backend.
+The keras model prediction using tensorflow is ..  [27.109503]

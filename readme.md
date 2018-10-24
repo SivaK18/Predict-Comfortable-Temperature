@@ -8,4 +8,3 @@ TO do
 
  learn.py contains train using keras - my_model2.h5 is the trained model - testFinal.py is the predictor( give argument at command line)
  learnFinal.py contains train using LinearRegression - finalized_model.sav is the trained model - regressionRedo.py is the predictor (give argument at command line)
- 
